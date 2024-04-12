@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi there! 👋 I'm a general enthusiast of computing!
 
 - [Lilu's Tech Guides](https://github.com/clown-0726/blogs)
