@@ -1,7 +1,7 @@
 Hi there! 👋 I'm a general enthusiast of computing!
 
-- [Lilu's Tech Guides](https://github.com/clown-0726/blogs)
-- [My Blog](https://www.yuque.com/u28650077/ppkyuu)
+- [Lilu's Tech Guides](https://www.yuque.com/u28650077/lilu-tech)
+- [My Blog](https://github.com/clown-0726/blogs)
 
 🏍️ 🥾 💻 👾 ☠️ 🥁 🎹 🎸 🐐
 
